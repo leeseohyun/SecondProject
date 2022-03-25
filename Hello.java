@@ -6,5 +6,5 @@ public class Hello {
                 System.out.println("Regist");
                 System.out.println("what is Git?");
 	}
-
+  
 }	
